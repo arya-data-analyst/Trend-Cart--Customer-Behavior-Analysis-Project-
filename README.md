@@ -445,6 +445,6 @@ Interested in building data-driven solutions and business intelligence dashboard
 
 📍  India  
 🔗 LinkedIn: https://linkedin.com/in/arya-gadade 
-💻 GitHub: https://github.com/arya-data-analytics
+💻 GitHub: https://github.com/arya-data-analyst
 
 ---
